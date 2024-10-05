@@ -104,7 +104,7 @@ imgS = cv2.resize(img, (0,0), None, 0.25, 0.25)
 2. Create a new branch (git checkout -b feature-branch).
 3. Commit your changes (git commit -m 'Add a new feature').
 4. Push to the branch (git push origin feature-branch).
-5. Open a pull request.\
+5. Open a pull request. 
 
 Please make sure your code is well-documented and tested before submitting.
 
